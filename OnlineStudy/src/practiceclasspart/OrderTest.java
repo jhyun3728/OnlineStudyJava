@@ -1,4 +1,4 @@
-package classpartpractice;
+package practiceclasspart;
 
 public class OrderTest {
 
