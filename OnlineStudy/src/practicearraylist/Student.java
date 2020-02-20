@@ -21,7 +21,7 @@ public class Student {
 	}
 	
 	public void showBookInfo() {
-		System.out.print(studentName + " 학생이 일긍ㄴ 책은 : ");
+		System.out.print(studentName + " 학생이 읽은 책은 : ");
 		
 		for(Book s : bookList) {
 			System.out.print(s.getName() + " ");
