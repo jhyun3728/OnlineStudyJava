@@ -1,4 +1,4 @@
-package inheritance;
+package polymorphism;
 
 public class VIPCustomer extends Customer{ 
 //getter, setter 일일이 또 다 만들지말고 겹치는게 많으니까 Customer 클래스를 상속받자
@@ -84,5 +84,6 @@ public class VIPCustomer extends Customer{
 	public int getAgentID() {
 		return agentID;
 	}
+	
 	
 }
